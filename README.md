@@ -28,5 +28,5 @@
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/minecraft-server-website.git
+   git clone https://github.com/PeleaRaul/Minecraft-Server-Website---Anarchymc.Ro.git
    cd minecraft-server-website
