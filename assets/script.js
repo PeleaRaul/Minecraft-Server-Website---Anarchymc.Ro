@@ -1,25 +1,3 @@
-/* Intellectual Property Notice: © 2024 by Author: Pelea Raul-Daniel. All Rights Reserved.
-License Nr: PRD-PR-GIT-#0034-2024
-Created on: © 2024/01/24 11:32AM
-
-Understanding the License:
-> P-First Name Initial
-> R-Last Name Initial
-> D-Middle Name Initial
-> PR-Private Work
-> GIT-GITHUB Integrated Lincese For Private Works (01/24/2024);
-> #0033-Indentification Number (not important, used to keep track of all my licenses given so far.)
-> 2024-Creation Year
-
-Content of Copyright:
-Do Not Redistribute, Share, Use on any other Domain name. This copy of the website shall be used only
-by anarchymc.ro and its subdomains (ex: www.anarchymc.ro, sub.anarchymc.ro)
-Any Unauthorised Use of The Files may lead to legal dispute. 
-
-Any DNS changes are charge free, but must be told beforehand.
-The content is copyright protected, so I will have to change the
-domain name under this template/website model! */
-
 // Get the current year
 var currentYear = new Date().getFullYear();
 document.getElementById('currentYear').textContent = currentYear;
